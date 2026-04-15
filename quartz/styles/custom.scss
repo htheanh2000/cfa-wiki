@@ -1,3 +1,56 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// CFA term hover tooltips
+abbr[title] {
+  text-decoration: underline dotted;
+  text-decoration-color: var(--secondary);
+  text-underline-offset: 3px;
+  cursor: help;
+  position: relative;
+  color: var(--secondary);
+  font-weight: 500;
+
+  &:hover {
+    text-decoration: underline solid;
+    text-decoration-color: var(--secondary);
+    background-color: color-mix(in srgb, var(--secondary) 12%, transparent);
+    border-radius: 3px;
+    padding: 0 2px;
+  }
+
+  // Custom tooltip (replaces browser native)
+  &:hover::after {
+    content: attr(title);
+    position: absolute;
+    bottom: calc(100% + 8px);
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: var(--dark);
+    color: var(--light);
+    padding: 8px 12px;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 400;
+    white-space: nowrap;
+    max-width: 350px;
+    white-space: normal;
+    z-index: 100;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    pointer-events: none;
+    line-height: 1.4;
+    border: 1px solid var(--lightgray);
+  }
+
+  // Arrow
+  &:hover::before {
+    content: "";
+    position: absolute;
+    bottom: calc(100% + 2px);
+    left: 50%;
+    transform: translateX(-50%);
+    border: 6px solid transparent;
+    border-top-color: var(--dark);
+    z-index: 101;
+    pointer-events: none;
+  }
+}
