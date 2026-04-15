@@ -90,7 +90,7 @@ tags: [mock-test, mock-test-2, economics, practice]
 
 ## Câu 51
 
-**Question 51: StarCaps, a manufacturer of promotional caps, has a lease expense of $100,000 each period. The labor and materials cost for each cap is $2.00 and StarCaps faces a market price of $4.50. If StarCaps expects to sell 30,000 caps each period, its most appropriate action is to:**
+**Question 51: StarCaps, a manufacturer of promotional caps, has a lease expense of \$100,000 each period. The labor and materials cost for each cap is \$2.00 and StarCaps faces a market price of \$4.50. If StarCaps expects to sell 30,000 caps each period, its most appropriate action is to:**
 
 (A) shut down now.
 
@@ -103,10 +103,10 @@ tags: [mock-test, mock-test-2, economics, practice]
 
 > [!tip]- 📖 Giải thích chi tiết
 > Đáp án đúng: (C) Tiếp tục hoạt động cho đến khi hợp đồng thuê hết hạn, sau đó đóng cửa.
-> StarCaps có marginal revenue (doanh thu biên) là $4.50/mũ, cao hơn marginal variable cost (chi phí biến đổi biên) là $2.00/mũ, nên mỗi mũ bán ra vẫn đóng góp $2.50 vào việc bù đắp chi phí cố định.
+> StarCaps có marginal revenue (doanh thu biên) là \$4.50/mũ, cao hơn marginal variable cost (chi phí biến đổi biên) là \$2.00/mũ, nên mỗi mũ bán ra vẫn đóng góp \$2.50 vào việc bù đắp chi phí cố định.
 >
-> Tuy nhiên, tổng doanh thu là 30,000 × $4.50 = $135,000, trong khi tổng chi phí là $100,000 (lease) + $60,000 (nguyên vật liệu) = $160,000, dẫn đến lỗ $25,000 mỗi kỳ.
-> Vì lease expense là sunk cost trong ngắn hạn (công ty phải trả dù có hoạt động hay không), việc tiếp tục sản xuất giúp giảm lỗ từ $100,000 (nếu đóng cửa ngay) xuống còn $25,000.
+> Tuy nhiên, tổng doanh thu là 30,000 × \$4.50 = \$135,000, trong khi tổng chi phí là \$100,000 (lease) + \$60,000 (nguyên vật liệu) = \$160,000, dẫn đến lỗ \$25,000 mỗi kỳ.
+> Vì lease expense là sunk cost trong ngắn hạn (công ty phải trả dù có hoạt động hay không), việc tiếp tục sản xuất giúp giảm lỗ từ \$100,000 (nếu đóng cửa ngay) xuống còn \$25,000.
 >
 > Chỉ khi lease hết hạn — tức là chi phí cố định không còn bắt buộc nữa — thì đóng cửa mới là quyết định tối ưu.
 

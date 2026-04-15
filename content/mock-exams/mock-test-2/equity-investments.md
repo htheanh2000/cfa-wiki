@@ -89,7 +89,7 @@ tags: [mock-test, mock-test-2, equity, practice]
 
 > [!tip]- 📖 Giải thích chi tiết
 > Đáp án đúng: (B) value tilt.
-[[equity-investments/glossary/equity-m02-glossary#Fundamental-Weighted Index|Fundamental-weighted index]] xây dựng tỷ trọng dựa trên các chỉ số cơ bản của doanh nghiệp như doanh thu, lợi nhuận, giá trị sổ sách hoặc cổ tức — không phải giá thị trường.
+> [[equity-investments/glossary/equity-m02-glossary#Fundamental-Weighted Index|Fundamental-weighted index]] xây dựng tỷ trọng dựa trên các chỉ số cơ bản của doanh nghiệp như doanh thu, lợi nhuận, giá trị sổ sách hoặc cổ tức — không phải giá thị trường.
 > Vì các công ty có fundamental tốt nhưng giá thị trường thấp (tức là cổ phiếu value) thường được định giá hợp lý hoặc thấp hơn thị trường, chỉ số này có xu hướng nghiêng về value stocks (value tilt).
 >
 > Ngược lại, market-cap-weighted index có momentum tilt vì các cổ phiếu tăng giá mạnh sẽ chiếm tỷ trọng lớn hơn; [[equity-investments/glossary/equity-m02-glossary#Price-Weighted Index|price-weighted index]] bị chi phối bởi các cổ phiếu có giá tuyệt đối cao.
@@ -146,25 +146,25 @@ tags: [mock-test, mock-test-2, equity, practice]
 
 ## Câu 109
 
-**Question 109: Yvette Rambeau has sold short 300 shares of Precision Instruments at $35. She enters a good-til-cancelled buy order on 300 shares with a stop price of 40 and a limit of 42. The maximum loss Rambeau will potentially realize on this strategy, if the price of Precision Instruments rises above the stop price, is:**
+**Question 109: Yvette Rambeau has sold short 300 shares of Precision Instruments at \$35. She enters a good-til-cancelled buy order on 300 shares with a stop price of 40 and a limit of 42. The maximum loss Rambeau will potentially realize on this strategy, if the price of Precision Instruments rises above the stop price, is:**
 
-(A) $1,500.
+(A) \$1,500.
 
-(B) $2,100.
+(B) \$2,100.
 
 (C) unlimited.
 
 > [!answer]- Đáp án
 > **(C) unlimited.**
 > 
-> Bạn chọn: (B) $2,100.
+> Bạn chọn: (B) \$2,100.
 
 > [!tip]- 📖 Giải thích chi tiết
 > Đáp án đúng: (C) Không giới hạn (unlimited).
-> Rambeau đang ở vị thế short 300 cổ phiếu ở mức $35, nghĩa là cô đã vay và bán cổ phiếu với kỳ vọng giá sẽ giảm để mua lại sau với giá thấp hơn.
+> Rambeau đang ở vị thế short 300 cổ phiếu ở mức \$35, nghĩa là cô đã vay và bán cổ phiếu với kỳ vọng giá sẽ giảm để mua lại sau với giá thấp hơn.
 >
-> Lệnh stop-buy được đặt với stop price $40 và limit $42: khi giá chạm $40, lệnh mua được kích hoạt nhưng chỉ thực hiện ở mức ≤ $42.
-> Vấn đề xảy ra khi giá tăng vọt qua $42 trước khi lệnh được khớp — lệnh limit sẽ không được thực hiện vì không có người bán ở mức ≤ $42, và Rambeau vẫn duy trì vị thế short trong khi giá tiếp tục tăng không giới hạn.
+> Lệnh stop-buy được đặt với stop price \$40 và limit \$42: khi giá chạm \$40, lệnh mua được kích hoạt nhưng chỉ thực hiện ở mức ≤ \$42.
+> Vấn đề xảy ra khi giá tăng vọt qua \$42 trước khi lệnh được khớp — lệnh limit sẽ không được thực hiện vì không có người bán ở mức ≤ \$42, và Rambeau vẫn duy trì vị thế short trong khi giá tiếp tục tăng không giới hạn.
 >
 > Đây chính là rủi ro cốt lõi của [[equity-investments/glossary/equity-m01-glossary#Short Selling|short selling]]: khác với [[equity-investments/glossary/equity-m01-glossary#Long Position|long position]] chỉ mất tối đa phần vốn bỏ ra, [[equity-investments/glossary/equity-m01-glossary#Short Position|short position]] có thể chịu lỗ lý thuyết không giới hạn vì giá cổ phiếu có thể tăng đến vô cùng.
 
@@ -214,25 +214,25 @@ tags: [mock-test, mock-test-2, equity, practice]
 
 ## Câu 121
 
-**Question 121: Agriff Company paid a [[equity-investments/glossary/equity-m04-glossary#Dividend|dividend]] of $1.90 per share last year. Dividends are expected to grow at a constant rate of 6%. The risk-free rate is 5%, the [[portfolio-management/glossary/pm-m02#Market risk premium|market risk premium]] is 7%, and the beta of the common shares is 1.3. The value of the Agriff Compay's common shares is closest to:**
+**Question 121: Agriff Company paid a [[equity-investments/glossary/equity-m04-glossary#Dividend|dividend]] of \$1.90 per share last year. Dividends are expected to grow at a constant rate of 6%. The risk-free rate is 5%, the [[portfolio-management/glossary/pm-m02#Market risk premium|market risk premium]] is 7%, and the beta of the common shares is 1.3. The value of the Agriff Compay's common shares is closest to:**
 
-(A) $22.15.
+(A) \$22.15.
 
-(B) $23.45.
+(B) \$23.45.
 
-(C) $24.85.
+(C) \$24.85.
 
 > [!answer]- Đáp án
-> **(C) $24.85.**
+> **(C) \$24.85.**
 > 
-> Bạn chọn: (B) $23.45.
+> Bạn chọn: (B) \$23.45.
 
 > [!tip]- 📖 Giải thích chi tiết
-> Đáp án đúng: (C) $24.85.
-> Đầu tiên, tính cổ tức năm tới: D1 = D0 × (1 + g) = $1.90 × 1.06 = $2.014.
+> Đáp án đúng: (C) \$24.85.
+> Đầu tiên, tính cổ tức năm tới: D1 = D0 × (1 + g) = \$1.90 × 1.06 = \$2.014.
 >
 > Tiếp theo, dùng CAPM để tính required return: ke = RFR + β × ([[portfolio-management/glossary/pm-m02#Market risk premium|Market risk premium]]) = 5% + 1.3 × 7% = 14.1% (lưu ý: market risk premium đã được cho sẵn là 7%, không phải tỷ suất thị trường tổng thể).
-> Cuối cùng, áp dụng infinite period [[equity-investments/glossary/equity-m04-glossary#Dividend|dividend]] [[fixed-income/glossary/fi-m08#Discount|discount]] model (DDM): V0 = D1 / (ke − g) = $2.014 / (0.141 − 0.06) = $24.86 ≈ $24.85.
+> Cuối cùng, áp dụng infinite period [[equity-investments/glossary/equity-m04-glossary#Dividend|dividend]] [[fixed-income/glossary/fi-m08#Discount|discount]] model (DDM): V0 = D1 / (ke − g) = \$2.014 / (0.141 − 0.06) = \$24.86 ≈ \$24.85.
 >
 > Sai lầm phổ biến là dùng D0 thay vì D1, hoặc tính sai ke bằng cách cộng thêm market risk premium vào lãi suất thị trường tổng thể.
 
@@ -312,7 +312,7 @@ tags: [mock-test, mock-test-2, equity, practice]
 
 ## Câu 135
 
-**Question 135: Securities regulators determine that Pat Burowski gained $400,000 making consistent abnormal profits over a period of five years by acting on material [[ethics/glossary/ethics-m03#Nonpublic information|nonpublic information]]. Based only on this, what can be concluded about the efficiency of the market in which Burowski was acting?**
+**Question 135: Securities regulators determine that Pat Burowski gained \$400,000 making consistent abnormal profits over a period of five years by acting on material [[ethics/glossary/ethics-m03#Nonpublic information|nonpublic information]]. Based only on this, what can be concluded about the efficiency of the market in which Burowski was acting?**
 
 (A) It may be strong-form efficient.
 
@@ -449,27 +449,27 @@ tags: [mock-test, mock-test-2, equity, practice]
 
 ## Câu 157
 
-**Question 157: Jack George, CFA, is evaluating Dunger, Inc., a waste management firm. The company has been experiencing a strong 15% growth rate, which is forecast to continue over the next three years before growth slows to a sustainable rate of 8%. The company recently paid a [[equity-investments/glossary/equity-m04-glossary#Dividend|dividend]] of $0.50 per share. George has calculated a 10% weighted average cost of capital for Dunger. The firm has no debt. The company's last reported trade was $35 per share. Based on the multi-stage dividend [[fixed-income/glossary/fi-m08#Discount|discount]] model, George should:**
+**Question 157: Jack George, CFA, is evaluating Dunger, Inc., a waste management firm. The company has been experiencing a strong 15% growth rate, which is forecast to continue over the next three years before growth slows to a sustainable rate of 8%. The company recently paid a [[equity-investments/glossary/equity-m04-glossary#Dividend|dividend]] of \$0.50 per share. George has calculated a 10% weighted average cost of capital for Dunger. The firm has no debt. The company's last reported trade was \$35 per share. Based on the multi-stage dividend [[fixed-income/glossary/fi-m08#Discount|discount]] model, George should:**
 
 (A) not buy the stock.
 
-(B) buy the stock because its intrinsic value is $38 per share.
+(B) buy the stock because its intrinsic value is \$38 per share.
 
-(C) buy the stock because its intrinsic value is $41 per share.
+(C) buy the stock because its intrinsic value is \$41 per share.
 
 > [!answer]- Đáp án
 > **(A) not buy the stock.**
 > 
-> Bạn chọn: (C) buy the stock because its intrinsic value is $41 per share.
+> Bạn chọn: (C) buy the stock because its intrinsic value is \$41 per share.
 
 > [!tip]- 📖 Giải thích chi tiết
 > Đáp án đúng: (A) not buy the stock.
-> Sử dụng mô hình Two-Stage [[equity-investments/glossary/equity-m04-glossary#Dividend|Dividend]] [[fixed-income/glossary/fi-m08#Discount|Discount]] Model (DDM): D1 = 0.50 × 1.15 = $0.575; D2 = 0.575 × 1.15 = $0.661; D3 = 0.661 × 1.15 = $0.760.
+> Sử dụng mô hình Two-Stage [[equity-investments/glossary/equity-m04-glossary#Dividend|Dividend]] [[fixed-income/glossary/fi-m08#Discount|Discount]] Model (DDM): D1 = 0.50 × 1.15 = \$0.575; D2 = 0.575 × 1.15 = \$0.661; D3 = 0.661 × 1.15 = \$0.760.
 >
-> Giá trị cuối kỳ tại năm 3 theo Gordon Growth Model là P3 = 0.760 × 1.08 / (0.10 − 0.08) = $41.05.
-> Chiết khấu tất cả về hiện tại với required return 10%: V = 0.575/1.10 + 0.661/1.10² + (0.760 + 41.05)/1.10³ ≈ $32.48.
+> Giá trị cuối kỳ tại năm 3 theo Gordon Growth Model là P3 = 0.760 × 1.08 / (0.10 − 0.08) = \$41.05.
+> Chiết khấu tất cả về hiện tại với required return 10%: V = 0.575/1.10 + 0.661/1.10² + (0.760 + 41.05)/1.10³ ≈ \$32.48.
 >
-> Vì [[equity-investments/glossary/equity-m08-glossary#Intrinsic Value|intrinsic value]] ($32.48) thấp hơn giá thị trường ($35.00), cổ phiếu đang bị định giá cao ([[equity-investments/glossary/equity-m08-glossary#Overvalued|overvalued]]), do đó George không nên mua.
+> Vì [[equity-investments/glossary/equity-m08-glossary#Intrinsic Value|intrinsic value]] (\$32.48) thấp hơn giá thị trường (\$35.00), cổ phiếu đang bị định giá cao ([[equity-investments/glossary/equity-m08-glossary#Overvalued|overvalued]]), do đó George không nên mua.
 
 ---
 
@@ -542,7 +542,7 @@ tags: [mock-test, mock-test-2, equity, practice]
 
 ## Câu 180
 
-**Question 180: An index is composed of the following three stocks: December 31, 20X1 December 31, 20X2 Stock Price Shares Price Shares Perez $140 1,000,000 $154 1,000,000 Quinton $70 1,500,000 $70 2,000,000 Ranovich $90 2,000,000 $81 2,000,000 An [[equity-investments/glossary/equity-m02-glossary#Equal-Weighted Index|equal-weighted index]] of the three stocks has a value on December 31, 20X1 = 100. The index value on December 31, 20X2 is closest to:**
+**Question 180: An index is composed of the following three stocks: December 31, 20X1 December 31, 20X2 Stock Price Shares Price Shares Perez \$140 1,000,000 \$154 1,000,000 Quinton \$70 1,500,000 \$70 2,000,000 Ranovich \$90 2,000,000 \$81 2,000,000 An [[equity-investments/glossary/equity-m02-glossary#Equal-Weighted Index|equal-weighted index]] of the three stocks has a value on December 31, 20X1 = 100. The index value on December 31, 20X2 is closest to:**
 
 (A) 100.
 

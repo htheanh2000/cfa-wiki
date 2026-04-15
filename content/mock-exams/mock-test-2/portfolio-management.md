@@ -193,24 +193,24 @@ tags: [mock-test, mock-test-2, portfolio, practice]
 
 ## Câu 122
 
-**Question 122: A small bank has calculated a one-month Value at [[portfolio-management/glossary/pm-m06#Risk|Risk]] (VaR) of $10 million with a [[quantitative-methods/glossary/m04-probability#Probability|probability]] of 2.5%. This result is most appropriately interpreted as:**
+**Question 122: A small bank has calculated a one-month Value at [[portfolio-management/glossary/pm-m06#Risk|Risk]] (VaR) of \$10 million with a [[quantitative-methods/glossary/m04-probability#Probability|probability]] of 2.5%. This result is most appropriately interpreted as:**
 
-(A) a maximum loss of $250,000 is expected in any given month.
+(A) a maximum loss of \$250,000 is expected in any given month.
 
-(B) in 2.5% of months, the bank will lose a maximum of $10 million.
+(B) in 2.5% of months, the bank will lose a maximum of \$10 million.
 
-(C) a one-month loss of $10 million is expected to happen in 2.5% of months.
+(C) a one-month loss of \$10 million is expected to happen in 2.5% of months.
 
 > [!answer]- Đáp án
-> **(C) a one-month loss of $10 million is expected to happen in 2.5% of months.**
+> **(C) a one-month loss of \$10 million is expected to happen in 2.5% of months.**
 > 
-> Bạn chọn: (B) in 2.5% of months, the bank will lose a maximum of $10 million.
+> Bạn chọn: (B) in 2.5% of months, the bank will lose a maximum of \$10 million.
 
 > [!tip]- 📖 Giải thích chi tiết
-> Đáp án đúng: (C) a one-month loss of $10 million is expected to happen in 2.5% of months.
+> Đáp án đúng: (C) a one-month loss of \$10 million is expected to happen in 2.5% of months.
 > Value at [[portfolio-management/glossary/pm-m06#Risk|Risk]] (VaR) được hiểu là mức tổn thất tối thiểu trong một khoảng thời gian nhất định, xảy ra với xác suất đã định — không phải mức tổn thất tối đa.
 >
-> Cụ thể, VaR $10 triệu với xác suất 2.5% có nghĩa là: trong 2.5% các tháng (tức khoảng 1 trong 40 tháng), ngân hàng sẽ mất ít nhất $10 triệu.
+> Cụ thể, VaR \$10 triệu với xác suất 2.5% có nghĩa là: trong 2.5% các tháng (tức khoảng 1 trong 40 tháng), ngân hàng sẽ mất ít nhất \$10 triệu.
 > Đáp án sai thường là nhầm VaR với "mức tổn thất tối đa" — thực tế, tổn thất thực tế có thể vượt xa con số này; VaR không nói gì về độ lớn của phần đuôi phân phối vượt ngưỡng đó.
 
 ---
@@ -406,7 +406,7 @@ tags: [mock-test, mock-test-2, portfolio, practice]
 
 ## Câu 162
 
-**Question 162: A stock price recently peaked at $45 per share, after which it has declined to its current value of $38. If an investor believes that $45 was a rational price even without fundamental evidence to support it, this is best viewed as an example of:**
+**Question 162: A stock price recently peaked at \$45 per share, after which it has declined to its current value of \$38. If an investor believes that \$45 was a rational price even without fundamental evidence to support it, this is best viewed as an example of:**
 
 (A) anchoring.
 
@@ -418,7 +418,7 @@ tags: [mock-test, mock-test-2, portfolio, practice]
 > **(A) anchoring.**
 
 > [!tip]- 📖 Giải thích chi tiết
-> Đây là ví dụ điển hình của anchoring (neo đậu nhận thức), một dạng behavioral bias trong đó nhà đầu tư "neo" phán đoán của mình vào một mức giá tham chiếu trong quá khứ — ở đây là mức đỉnh $45 — và tin rằng đó là mức giá hợp lý dù không có bằng chứng cơ bản nào hỗ trợ.
+> Đây là ví dụ điển hình của anchoring (neo đậu nhận thức), một dạng behavioral bias trong đó nhà đầu tư "neo" phán đoán của mình vào một mức giá tham chiếu trong quá khứ — ở đây là mức đỉnh \$45 — và tin rằng đó là mức giá hợp lý dù không có bằng chứng cơ bản nào hỗ trợ.
 > Điều đáng chú ý là nhà đầu tư này thừa nhận không có fundamental evidence, nhưng vẫn bám vào giá đỉnh cũ như một điểm tham chiếu, đây chính là dấu hiệu rõ ràng của anchoring.
 >
 > Nếu đây là [[portfolio-management/glossary/pm-m05#Overconfidence bias|overconfidence bias]], nhà đầu tư sẽ tin vào năng lực phân tích của bản thân; còn nếu là [[portfolio-management/glossary/pm-m05#Hindsight bias|hindsight bias]], họ sẽ cho rằng mình đã "biết trước" đà giảm giá.

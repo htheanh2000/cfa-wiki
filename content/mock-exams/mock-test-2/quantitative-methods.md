@@ -22,7 +22,7 @@ tags: [mock-test, mock-test-2, quantitative-methods, practice]
 
 ## Câu 33
 
-**Question 33: Jon Pelker plans to retire in six years and will require $950,000. Today, Pelker will deposit $100,000 into an interest bearing account and will deposit an additional $100,000 at the end of each of the next six years. What annual percentage return must Pelker earn to achieve his goal of $950,000 for his retirement?**
+**Question 33: Jon Pelker plans to retire in six years and will require \$950,000. Today, Pelker will deposit \$100,000 into an interest bearing account and will deposit an additional \$100,000 at the end of each of the next six years. What annual percentage return must Pelker earn to achieve his goal of \$950,000 for his retirement?**
 
 (A) 8%.
 
@@ -35,7 +35,7 @@ tags: [mock-test, mock-test-2, quantitative-methods, practice]
 
 > [!tip]- 📖 Giải thích chi tiết
 > Đáp án đúng: (B) 10%.
-> Đây là bài toán tính lãi suất với một [[quantitative-methods/glossary/m02-time-value-of-money#Annuity Due|annuity due]] kết hợp với lump sum ban đầu: Pelker gửi $100,000 ngay hôm nay (PV = –100,000) và thêm $100,000 mỗi cuối năm trong 6 năm (PMT = –100,000, N = 6), mục tiêu là đạt FV = $950,000.
+> Đây là bài toán tính lãi suất với một [[quantitative-methods/glossary/m02-time-value-of-money#Annuity Due|annuity due]] kết hợp với lump sum ban đầu: Pelker gửi \$100,000 ngay hôm nay (PV = –100,000) và thêm \$100,000 mỗi cuối năm trong 6 năm (PMT = –100,000, N = 6), mục tiêu là đạt FV = \$950,000.
 >
 > Nhập các giá trị này vào máy tính tài chính và tính CPT I/Y sẽ ra kết quả 10%.
 > Lưu ý rằng cả PV và PMT đều âm (dòng tiền ra) trong khi FV dương (dòng tiền vào), điều này đảm bảo tính nhất quán về chiều dòng tiền khi sử dụng máy tính.
@@ -116,23 +116,23 @@ tags: [mock-test, mock-test-2, quantitative-methods, practice]
 
 ## Câu 48
 
-**Question 48: A [[quantitative-methods/glossary/m04-probability#Probability Tree|probability tree]] shows that a company's expected earnings per share for the next period is $2.75. If three of the four potential outcomes used to construct the tree show a 20% probability of $2.00, a 25% probability of $2.60, and a 30% probability of $2.80, the remaining possible [[quantitative-methods/glossary/m04-probability#Outcome|outcome]] is:**
+**Question 48: A [[quantitative-methods/glossary/m04-probability#Probability Tree|probability tree]] shows that a company's expected earnings per share for the next period is \$2.75. If three of the four potential outcomes used to construct the tree show a 20% probability of \$2.00, a 25% probability of \$2.60, and a 30% probability of \$2.80, the remaining possible [[quantitative-methods/glossary/m04-probability#Outcome|outcome]] is:**
 
-(A) $3.28.
+(A) \$3.28.
 
-(B) $3.36.
+(B) \$3.36.
 
-(C) $3.44.
+(C) \$3.44.
 
 > [!answer]- Đáp án
-> **(C) $3.44.**
+> **(C) \$3.44.**
 
 > [!tip]- 📖 Giải thích chi tiết
-> Đáp án đúng: (C) $3.44.
+> Đáp án đúng: (C) \$3.44.
 > Tổng xác suất của tất cả các kết quả phải bằng 100%, nên xác suất còn lại là 100% − 20% − 25% − 30% = 25%.
 >
-> Gọi kết quả chưa biết là X, ta lập phương trình kỳ vọng: 0.20(2.00) + 0.25(2.60) + 0.30(2.80) + 0.25(X) = 2.75, tức là 0.40 + 0.65 + 0.84 + 0.25X = 2.75, suy ra 0.25X = 0.86, vậy X = $3.44.
-> Kết quả này hợp lý vì để kéo expected EPS lên $2.75 khi ba kết quả kia đều thấp hơn, kết quả thứ tư cần phải đủ cao.
+> Gọi kết quả chưa biết là X, ta lập phương trình kỳ vọng: 0.20(2.00) + 0.25(2.60) + 0.30(2.80) + 0.25(X) = 2.75, tức là 0.40 + 0.65 + 0.84 + 0.25X = 2.75, suy ra 0.25X = 0.86, vậy X = \$3.44.
+> Kết quả này hợp lý vì để kéo expected EPS lên \$2.75 khi ba kết quả kia đều thấp hơn, kết quả thứ tư cần phải đủ cao.
 
 ---
 
@@ -226,7 +226,7 @@ tags: [mock-test, mock-test-2, quantitative-methods, practice]
 
 > [!tip]- 📖 Giải thích chi tiết
 > Đáp án đúng: (C) Các quan sát được đưa trả lại để có thể được rút lại trong lần lấy mẫu khác.
-[[quantitative-methods/glossary/m06-simulation-methods#Bootstrap|Bootstrap]] [[quantitative-methods/glossary/m06-simulation-methods#Resampling|resampling]] là kỹ thuật lấy mẫu có hoàn lại (sampling with replacement) từ bộ dữ liệu gốc, nghĩa là sau mỗi lần rút, quan sát đó được đặt lại vào tập dữ liệu và hoàn toàn có thể xuất hiện trong các mẫu tiếp theo.
+> [[quantitative-methods/glossary/m06-simulation-methods#Bootstrap|Bootstrap]] [[quantitative-methods/glossary/m06-simulation-methods#Resampling|resampling]] là kỹ thuật lấy mẫu có hoàn lại (sampling with replacement) từ bộ dữ liệu gốc, nghĩa là sau mỗi lần rút, quan sát đó được đặt lại vào tập dữ liệu và hoàn toàn có thể xuất hiện trong các mẫu tiếp theo.
 > Điều này khác với lấy mẫu không hoàn lại (sampling without replacement), trong đó quan sát đã rút sẽ bị loại khỏi các lần rút sau.
 >
 > Phương pháp này cho phép ước tính phân phối của một thống kê mà không cần giả định về phân phối tổng thể.
@@ -261,7 +261,7 @@ tags: [mock-test, mock-test-2, quantitative-methods, practice]
 
 ## Câu 79
 
-**Question 79: A 5.8% [[equity-investments/glossary/equity-m04-glossary#Preferred Stock|preferred stock]] with a par value of $1,000 has an annual yield of 5.4%. A [[fixed-income/glossary/fi-m02#Zero-coupon bond|zero-coupon bond]] with a face value of $1,000 will mature in 3 years and has a yield of 4.7% on a semiannual-bond [[derivatives/glossary/der-m03#Basis|basis]]. Which security has a higher price today?**
+**Question 79: A 5.8% [[equity-investments/glossary/equity-m04-glossary#Preferred Stock|preferred stock]] with a par value of \$1,000 has an annual yield of 5.4%. A [[fixed-income/glossary/fi-m02#Zero-coupon bond|zero-coupon bond]] with a face value of \$1,000 will mature in 3 years and has a yield of 4.7% on a semiannual-bond [[derivatives/glossary/der-m03#Basis|basis]]. Which security has a higher price today?**
 
 (A) The preferred stock.
 
@@ -276,9 +276,9 @@ tags: [mock-test, mock-test-2, quantitative-methods, practice]
 
 > [!tip]- 📖 Giải thích chi tiết
 > Đáp án đúng: (A) [[equity-investments/glossary/equity-m04-glossary#Preferred Stock|Preferred stock]] có giá cao hơn.
-> Preferred stock trả cổ tức $58/năm ($1,000 × 5.8%) với yield yêu cầu là 5.4%, nên giá hiện tại = $58 / 0.054 = $1,074.07 — cao hơn mệnh giá $1,000. [[fixed-income/glossary/fi-m02#Zero-coupon bond|Zero-coupon bond]] với face value $1,000, kỳ hạn 3 năm và yield 4.7% (semiannual-bond [[derivatives/glossary/der-m03#Basis|basis]]) có giá = $1,000 / (1 + 0.047/2)^6 = $869.91.
+> Preferred stock trả cổ tức \$58/năm (\$1,000 × 5.8%) với yield yêu cầu là 5.4%, nên giá hiện tại = \$58 / 0.054 = \$1,074.07 — cao hơn mệnh giá \$1,000. [[fixed-income/glossary/fi-m02#Zero-coupon bond|Zero-coupon bond]] với face value \$1,000, kỳ hạn 3 năm và yield 4.7% (semiannual-bond [[derivatives/glossary/der-m03#Basis|basis]]) có giá = \$1,000 / (1 + 0.047/2)^6 = \$869.91.
 >
-> Ngay cả khi không tính cụ thể, ta có thể suy luận nhanh: preferred stock có giá > $1,000 (vì yield < dividend rate), trong khi zero-coupon bond luôn có giá < $1,000 (vì không có coupon), nên preferred stock chắc chắn có giá cao hơn.
+> Ngay cả khi không tính cụ thể, ta có thể suy luận nhanh: preferred stock có giá > \$1,000 (vì yield < dividend rate), trong khi zero-coupon bond luôn có giá < \$1,000 (vì không có coupon), nên preferred stock chắc chắn có giá cao hơn.
 
 ---
 

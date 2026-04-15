@@ -170,15 +170,15 @@ tags: [mock-test, mock-test-2, fsa, practice]
 
 (A) bad debt provision from 10% of receivables to 7%.
 
-(B) valuation allowance on deferred tax assets from $100,000 to $70,000.
+(B) valuation allowance on deferred tax assets from \$100,000 to \$70,000.
 
-(C) estimated salvage value from $10,000 to $7,000 for an asset that is depreciated straight-line.
+(C) estimated salvage value from \$10,000 to \$7,000 for an asset that is depreciated straight-line.
 
 > [!answer]- Đáp án
-> **(C) estimated salvage value from $10,000 to $7,000 for an asset that is depreciated straight-line.**
+> **(C) estimated salvage value from \$10,000 to \$7,000 for an asset that is depreciated straight-line.**
 
 > [!tip]- 📖 Giải thích chi tiết
-> Đáp án đúng: (C) giảm estimated salvage value từ $10,000 xuống $7,000 cho tài sản khấu hao theo phương pháp straight-line.
+> Đáp án đúng: (C) giảm estimated salvage value từ \$10,000 xuống \$7,000 cho tài sản khấu hao theo phương pháp straight-line.
 > Conservative accounting là cách hạch toán có xu hướng làm giảm lợi nhuận hoặc tài sản hiện tại.
 >
 > Khi salvage value giảm, depreciable base (cost − salvage value) tăng lên, dẫn đến chi phí khấu hao hàng năm cao hơn, làm giảm lợi nhuận báo cáo và giá trị ghi sổ của tài sản — đây là biểu hiện của conservative accounting.
@@ -286,7 +286,7 @@ tags: [mock-test, mock-test-2, fsa, practice]
 
 ## Câu 62
 
-**Question 62: Lewis Equipment Company manufactured a construction crane with an estimated useful life of 20 years and market value of $1 million. Valley Builders leases the crane from Lewis for five years with payments of $100,000 per year. The lease includes an [[derivatives/glossary/der-m02#Option|option]] to buy the crane at the end of the lease. Both parties expect that Valley will exercise the purchase option at the end of the lease term. This lease will be reported on the companies' financial statements as:**
+**Question 62: Lewis Equipment Company manufactured a construction crane with an estimated useful life of 20 years and market value of \$1 million. Valley Builders leases the crane from Lewis for five years with payments of \$100,000 per year. The lease includes an [[derivatives/glossary/der-m02#Option|option]] to buy the crane at the end of the lease. Both parties expect that Valley will exercise the purchase option at the end of the lease term. This lease will be reported on the companies' financial statements as:**
 
 (A) a finance lease by Valley and Lewis.
 
@@ -377,13 +377,13 @@ tags: [mock-test, mock-test-2, fsa, practice]
 
 ## Câu 71
 
-**Question 71: JiffyCo's tax rate is 40%. JiffyCo purchases a $200 asset with no salvage value which is depreciated on a straight-line [[derivatives/glossary/der-m03#Basis|basis]] for four years for tax purposes and five years for financial reporting. At the end of the second year:**
+**Question 71: JiffyCo's tax rate is 40%. JiffyCo purchases a \$200 asset with no salvage value which is depreciated on a straight-line [[derivatives/glossary/der-m03#Basis|basis]] for four years for tax purposes and five years for financial reporting. At the end of the second year:**
 
 (A) JiffyCo’s effective tax rate has decreased.
 
 (B) the asset’s carrying value is greater than its tax base.
 
-(C) the deferred tax liability has a balance of $20.
+(C) the deferred tax liability has a balance of \$20.
 
 > [!answer]- Đáp án
 > **(B) the asset’s carrying value is greater than its tax base.**
@@ -392,10 +392,10 @@ tags: [mock-test, mock-test-2, fsa, practice]
 
 > [!tip]- 📖 Giải thích chi tiết
 > Đáp án đúng: (B) carrying value của tài sản lớn hơn tax base.
-> Khấu hao theo thuế (tax depreciation) là 200 / 4 = $50/năm, trong khi khấu hao theo sách (book depreciation) là 200 / 5 = $40/năm.
+> Khấu hao theo thuế (tax depreciation) là 200 / 4 = \$50/năm, trong khi khấu hao theo sách (book depreciation) là 200 / 5 = \$40/năm.
 >
-> Sau hai năm, carrying value trên báo cáo tài chính là $120 [200 − (40 × 2)], còn tax base chỉ là $100 [200 − (50 × 2)], nên carrying value lớn hơn tax base.
-> Vì tài sản được khấu hao nhanh hơn cho mục đích thuế, công ty đang trả ít thuế hơn trong giai đoạn đầu, tạo ra một deferred tax liability là $8 [(120 − 100) × 40%].
+> Sau hai năm, carrying value trên báo cáo tài chính là \$120 [200 − (40 × 2)], còn tax base chỉ là \$100 [200 − (50 × 2)], nên carrying value lớn hơn tax base.
+> Vì tài sản được khấu hao nhanh hơn cho mục đích thuế, công ty đang trả ít thuế hơn trong giai đoạn đầu, tạo ra một deferred tax liability là \$8 [(120 − 100) × 40%].
 >
 > Đây là temporary difference chứ không phải permanent difference, do đó không ảnh hưởng đến effective tax rate dài hạn.
 

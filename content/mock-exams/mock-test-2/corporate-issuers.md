@@ -67,13 +67,13 @@ tags: [mock-test, mock-test-2, corporate, practice]
 
 ## Câu 39
 
-**Question 39: A project has an initial cash outflow of $100,000. The sum of the present values of its after-tax cash inflows is $105,000. Which of the following statements is most accurate regarding this project?**
+**Question 39: A project has an initial cash outflow of \$100,000. The sum of the present values of its after-tax cash inflows is \$105,000. Which of the following statements is most accurate regarding this project?**
 
 (A) It has a positive NPV at the discount rate used.
 
 (B) Increasing the discount rate would increase its NPV.
 
-(C) Net cash flows expected from this project are $5,000.
+(C) Net cash flows expected from this project are \$5,000.
 
 > [!answer]- Đáp án
 > **(A) It has a positive NPV at the discount rate used.**
@@ -82,9 +82,9 @@ tags: [mock-test, mock-test-2, corporate, practice]
 
 > [!tip]- 📖 Giải thích chi tiết
 > Đáp án đúng: (A) Dự án có NPV dương tại [[quantitative-methods/glossary/m01-rates-and-returns#Discount Rate|discount rate]] được sử dụng.
-> NPV = tổng PV của dòng tiền vào – vốn đầu tư ban đầu = $105,000 – $100,000 = $5,000 > 0, nên dự án có NPV dương tại discount rate đã dùng và đáng chấp nhận theo tiêu chí NPV.
+> NPV = tổng PV của dòng tiền vào – vốn đầu tư ban đầu = \$105,000 – \$100,000 = \$5,000 > 0, nên dự án có NPV dương tại discount rate đã dùng và đáng chấp nhận theo tiêu chí NPV.
 >
-> Đáp án sai vì: nếu tăng discount rate, PV của các dòng tiền vào sẽ giảm xuống dưới $105,000 làm NPV có thể âm; hơn nữa, vì các dòng tiền đã được chiết khấu (discounted), tổng dòng tiền chưa chiết khấu (undiscounted) thực tế phải lớn hơn $105,000 (không chỉ lớn hơn $5,000 như một số người nhầm).
+> Đáp án sai vì: nếu tăng discount rate, PV của các dòng tiền vào sẽ giảm xuống dưới \$105,000 làm NPV có thể âm; hơn nữa, vì các dòng tiền đã được chiết khấu (discounted), tổng dòng tiền chưa chiết khấu (undiscounted) thực tế phải lớn hơn \$105,000 (không chỉ lớn hơn \$5,000 như một số người nhầm).
 
 ---
 
@@ -136,7 +136,7 @@ tags: [mock-test, mock-test-2, corporate, practice]
 
 ## Câu 54
 
-**Question 54: A company is considering whether to allocate capital to a new product line. They estimate the project will require an initial cash outflow of $3 million. If the new product succeeds, they foresee a profitable opportunity to expand the project in three years, which would require a $3 million cash outflow. In evaluating the opportunity to introduce the new product line, how should the company most appropriately consider the opportunity to expand the project in the future?**
+**Question 54: A company is considering whether to allocate capital to a new product line. They estimate the project will require an initial cash outflow of \$3 million. If the new product succeeds, they foresee a profitable opportunity to expand the project in three years, which would require a \$3 million cash outflow. In evaluating the opportunity to introduce the new product line, how should the company most appropriately consider the opportunity to expand the project in the future?**
 
 (A) Include it and assign it a positive value.
 
@@ -184,7 +184,7 @@ tags: [mock-test, mock-test-2, corporate, practice]
 
 ## Câu 68
 
-**Quesiton 68: The Baker Company is evaluating several projects brought forth by its management team. One of the projects requires a $70,000 initial investment and has a forecast NPV of $35,000. If the [[equity-investments/glossary/equity-m08-glossary#Required Rate of Return|required rate of return]] for the project is 6.25%, Baker should:**
+**Quesiton 68: The Baker Company is evaluating several projects brought forth by its management team. One of the projects requires a \$70,000 initial investment and has a forecast NPV of \$35,000. If the [[equity-investments/glossary/equity-m08-glossary#Required Rate of Return|required rate of return]] for the project is 6.25%, Baker should:**
 
 (A) accept the project because its IRR exceeds 6.25%.
 
@@ -199,10 +199,10 @@ tags: [mock-test, mock-test-2, corporate, practice]
 
 > [!tip]- 📖 Giải thích chi tiết
 > Khi một dự án có NPV dương, điều đó mặc nhiên cho thấy IRR (internal rate of return) của dự án vượt quá [[equity-investments/glossary/equity-m08-glossary#Required Rate of Return|required rate of return]] (tỷ suất sinh lời yêu cầu).
-> Với NPV = +$35,000 và required return = 6.25%, IRR chắc chắn phải lớn hơn 6.25% — đây là mối quan hệ toán học trực tiếp giữa NPV và IRR.
+> Với NPV = +\$35,000 và required return = 6.25%, IRR chắc chắn phải lớn hơn 6.25% — đây là mối quan hệ toán học trực tiếp giữa NPV và IRR.
 >
 > Dự án nên được chấp thuận vì tạo ra giá trị cho cổ đông.
-> Lưu ý: khoản đầu tư ban đầu $70,000 đã được tính vào trong phân tích NPV, nên không cần xét riêng nó như một yếu tố ngăn cản việc chấp nhận dự án.
+> Lưu ý: khoản đầu tư ban đầu \$70,000 đã được tính vào trong phân tích NPV, nên không cần xét riêng nó như một yếu tố ngăn cản việc chấp nhận dự án.
 
 ---
 
@@ -302,24 +302,24 @@ tags: [mock-test, mock-test-2, corporate, practice]
 
 ## Câu 88
 
-**Question 88: A company has estimated the installed cost of a new machine to be $1.5 million. The machine is expected to increase after-tax cash flows by $600,000 in each of the next three years and by $300,000 for two years after that. After five years the machine will be removed and disposed of at a cost of $200,000. If the firm uses a [[quantitative-methods/glossary/m01-rates-and-returns#Discount Rate|discount rate]] of 9% for evaluating capital projects, its estimate of the NPV of the proposed investment will be closest to:**
+**Question 88: A company has estimated the installed cost of a new machine to be \$1.5 million. The machine is expected to increase after-tax cash flows by \$600,000 in each of the next three years and by \$300,000 for two years after that. After five years the machine will be removed and disposed of at a cost of \$200,000. If the firm uses a [[quantitative-methods/glossary/m01-rates-and-returns#Discount Rate|discount rate]] of 9% for evaluating capital projects, its estimate of the NPV of the proposed investment will be closest to:**
 
-(A) $283,000.
+(A) \$283,000.
 
-(B) $296,000.
+(B) \$296,000.
 
-(C) $307,000.
+(C) \$307,000.
 
 > [!answer]- Đáp án
-> **(B) $296,000.**
+> **(B) \$296,000.**
 > 
-> Bạn chọn: (A) $283,000.
+> Bạn chọn: (A) \$283,000.
 
 > [!tip]- 📖 Giải thích chi tiết
-> Đáp án đúng: (B) $296,000.
+> Đáp án đúng: (B) \$296,000.
 > Sử dụng tính năng cash flow trên máy tính tài chính: CF0 = −1,500,000; C01 = 600,000 trong 3 năm; C02 = 300,000 trong năm thứ 4; C03 = 100,000 trong năm thứ 5 (bao gồm salvage value sau thuế).
 >
-> Với [[quantitative-methods/glossary/m01-rates-and-returns#Discount Rate|discount rate]] I/Y = 9%, NPV tính ra xấp xỉ 296,297 ≈ $296,000.
+> Với [[quantitative-methods/glossary/m01-rates-and-returns#Discount Rate|discount rate]] I/Y = 9%, NPV tính ra xấp xỉ 296,297 ≈ \$296,000.
 > Dấu âm của CF0 phản ánh chi phí đầu tư ban đầu, và salvage value được cộng vào dòng tiền năm cuối trước khi chiết khấu.
 
 ---

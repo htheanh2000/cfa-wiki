@@ -37,7 +37,7 @@ tags: [mock-test, mock-test-2, alternatives, practice]
 
 > [!tip]- 📖 Giải thích chi tiết
 > Đáp án đúng: (B) degree to which the assets' fair values are observable.
-[[ethics/glossary/ethics-m04#Fair value|Fair value]] hierarchy phân loại tài sản dựa trên mức độ có thể quan sát được của fair value — tức là thông tin định giá tài sản đó đến từ thị trường thực tế hay phải ước tính.
+> [[ethics/glossary/ethics-m04#Fair value|Fair value]] hierarchy phân loại tài sản dựa trên mức độ có thể quan sát được của fair value — tức là thông tin định giá tài sản đó đến từ thị trường thực tế hay phải ước tính.
 > Level 1 bao gồm các tài sản giao dịch trên thị trường hoạt động với giá niêm yết rõ ràng; Level 2 là các tài sản không có giá niêm yết nhưng fair value có thể ước tính dựa trên observable inputs (ví dụ giá tài sản tương tự); Level 3 là tài sản phải dùng unobservable inputs (mô hình nội bộ, giả định chủ quan) để định giá.
 >
 > Thang phân cấp này không dựa trên loại tài sản hay thanh khoản trực tiếp, mà dựa vào tính minh bạch của quá trình định giá.
@@ -206,7 +206,7 @@ tags: [mock-test, mock-test-2, alternatives, practice]
 
 ## Câu 148
 
-**Question 148: Dr. Parker invested $2.5 million in Able Fund at the beginning of 20X1 and agreed to a 2-and-15 structure for fees with a hard hurdle rate of 5%. Management and incentive fees are calculated independently based on year-end assets under management. If the net asset value of Parker's investment before fees reached $3.5 million at the end of 20X1, Parker's return after fees is closest to:**
+**Question 148: Dr. Parker invested \$2.5 million in Able Fund at the beginning of 20X1 and agreed to a 2-and-15 structure for fees with a hard hurdle rate of 5%. Management and incentive fees are calculated independently based on year-end assets under management. If the net asset value of Parker's investment before fees reached \$3.5 million at the end of 20X1, Parker's return after fees is closest to:**
 
 (A) 30%.
 
@@ -219,13 +219,13 @@ tags: [mock-test, mock-test-2, alternatives, practice]
 
 > [!tip]- 📖 Giải thích chi tiết
 > Cấu trúc phí "2-and-15 với hard hurdle rate 5%" nghĩa là: [[alternative-investments/glossary/ai-m01#Management fee|management fee]] 2% tính trên NAV cuối năm, và incentive fee 15% chỉ tính trên phần lợi nhuận vượt quá hard hurdle.
-> Hard hurdle = $2.5M × 1.05 = $2.625M, và NAV cuối năm = $3.5M.
+> Hard hurdle = \$2.5M × 1.05 = \$2.625M, và NAV cuối năm = \$3.5M.
 >
-> Management fee = 2% × $3.5M = $70,000.
-> Incentive fee = 15% × ($3.5M – $2.625M) = $131,250.
+> Management fee = 2% × \$3.5M = \$70,000.
+> Incentive fee = 15% × (\$3.5M – \$2.625M) = \$131,250.
 >
-> NAV sau phí = $3.5M – $70,000 – $131,250 = $3,298,750.
-> Return sau phí = $3,298,750/$2,500,000 – 1 ≈ 31.95% ≈ 32%.
+> NAV sau phí = \$3.5M – \$70,000 – \$131,250 = \$3,298,750.
+> Return sau phí = \$3,298,750/\$2,500,000 – 1 ≈ 31.95% ≈ 32%.
 >
 > Lưu ý: với hard hurdle, incentive fee tính trên toàn bộ lợi nhuận vượt hurdle, khác với soft hurdle chỉ tính trên phần vượt.
 

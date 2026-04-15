@@ -121,7 +121,7 @@ tags: [mock-test, mock-test-2, ethics, practice]
 
 ## Câu 5
 
-**Question 5: Among all analysts who cover Saris Corporation, the consensus earnings estimate for the current period is $2.14. Lee Rutherford, CFA, believes that Saris will release earnings above the consensus number but in his published research report he estimates earnings for Saris to be $2.14 per share. In conversations with some clients Rutherford mentions his reasons for believing that the $2.14 number may be on the low side. With respect to the Code and Standards:**
+**Question 5: Among all analysts who cover Saris Corporation, the consensus earnings estimate for the current period is \$2.14. Lee Rutherford, CFA, believes that Saris will release earnings above the consensus number but in his published research report he estimates earnings for Saris to be \$2.14 per share. In conversations with some clients Rutherford mentions his reasons for believing that the \$2.14 number may be on the low side. With respect to the Code and Standards:**
 
 (A) the conversations do not violate the Standards because the research report is the official document, and that is what Rutherford is supporting.
 

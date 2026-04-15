@@ -267,18 +267,18 @@ tags: [mock-test, mock-test-2, derivatives, practice]
 
 ## Câu 179
 
-**Question 179: Consider an investor who writes a put on a share at X for premium of $5 and an investor who takes a long forward position at X in the same asset for the same period. If ST is the asset price at [[equity-investments/glossary/equity-m01-glossary#Settlement|settlement]], both investors will have the same profit at settlement only if:**
+**Question 179: Consider an investor who writes a put on a share at X for premium of \$5 and an investor who takes a long forward position at X in the same asset for the same period. If ST is the asset price at [[equity-investments/glossary/equity-m01-glossary#Settlement|settlement]], both investors will have the same profit at settlement only if:**
 
-(A) ST – X = $5.
+(A) ST – X = \$5.
 
 (B) ST – X ≤ 0.
 
-(C) X – ST = $5.
+(C) X – ST = \$5.
 
 > [!answer]- Đáp án
-> **(A) ST – X = $5.**
+> **(A) ST – X = \$5.**
 > 
-> Bạn chọn: (C) X – ST = $5.
+> Bạn chọn: (C) X – ST = \$5.
 
 > [!tip]- 📖 Giải thích chi tiết
 > Lợi nhuận của vị thế **short put** là: 5 − max(0, X − Sᴛ).

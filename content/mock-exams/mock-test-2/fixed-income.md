@@ -61,7 +61,7 @@ tags: [mock-test, mock-test-2, fixed-income, practice]
 
 > [!tip]- 📖 Giải thích chi tiết
 > Đáp án đúng: (B) covered bonds provide better credit protection to the buyer than ABS.
-[[fixed-income/glossary/fi-m18#Covered bond|Covered bond]] mang lại bảo vệ tín dụng tốt hơn cho người mua so với ABS vì người nắm giữ covered bond có hai lớp bảo vệ: (1) quyền đòi nợ đối với pool tài sản thế chấp (loan pool), và (2) quyền đòi nợ chung (general claim) đối với tài sản của ngân hàng phát hành nếu loan pool không đủ để trả nợ.
+> [[fixed-income/glossary/fi-m18#Covered bond|Covered bond]] mang lại bảo vệ tín dụng tốt hơn cho người mua so với ABS vì người nắm giữ covered bond có hai lớp bảo vệ: (1) quyền đòi nợ đối với pool tài sản thế chấp (loan pool), và (2) quyền đòi nợ chung (general claim) đối với tài sản của ngân hàng phát hành nếu loan pool không đủ để trả nợ.
 > Trong khi đó, ABS chuyển các khoản vay sang một special purpose entity (SPE) tách biệt khỏi bảng cân đối của ngân hàng, nên người mua ABS không có quyền truy đòi tài sản ngân hàng.
 >
 > Ngoài ra, ABS thường hoàn trả principal theo dòng tiền từ pool (pass-through), còn covered bond thường trả toàn bộ principal khi đáo hạn giống các trái phiếu thông thường — đây là sự khác biệt quan trọng về cấu trúc thanh toán.
@@ -94,7 +94,7 @@ tags: [mock-test, mock-test-2, fixed-income, practice]
 
 ## Câu 108
 
-**Question 108: A 210-day certificate of deposit investment of $48.3 million will produce a redemption amount at maturity of $50 million. The add-on yield of the certificate of deposit, assuming a 365-day year, is closest to:**
+**Question 108: A 210-day certificate of deposit investment of \$48.3 million will produce a redemption amount at maturity of \$50 million. The add-on yield of the certificate of deposit, assuming a 365-day year, is closest to:**
 
 (A) 3.5%.
 
@@ -328,27 +328,27 @@ tags: [mock-test, mock-test-2, fixed-income, practice]
 
 ## Câu 145
 
-**Question 145: A $50,000 10-year 7% bond with semi-annual coupon payments is issued on January 1, 20X0. The full price for a trade of this bond, with a 7% yield tomaturity to settle on April 30, 20X6, using the 30/360 day-count convention, is closest to:**
+**Question 145: A \$50,000 10-year 7% bond with semi-annual coupon payments is issued on January 1, 20X0. The full price for a trade of this bond, with a 7% yield tomaturity to settle on April 30, 20X6, using the 30/360 day-count convention, is closest to:**
 
-(A) $51,160.
+(A) \$51,160.
 
-(B) $51,164.
+(B) \$51,164.
 
-(C) $51,167.
+(C) \$51,167.
 
 > [!answer]- Đáp án
-> **(A) $51,160.**
+> **(A) \$51,160.**
 > 
-> Bạn chọn: (B) $51,164.
+> Bạn chọn: (B) \$51,164.
 
 > [!tip]- 📖 Giải thích chi tiết
 > Đây là bài toán tính full price (dirty price) gồm flat price cộng với [[fixed-income/glossary/fi-m06#Accrued interest|accrued interest]].
-> Trái phiếu được phát hành ngày 1/1/20X0, coupon semi-annual 7%, mệnh giá $50,000.
+> Trái phiếu được phát hành ngày 1/1/20X0, coupon semi-annual 7%, mệnh giá \$50,000.
 >
 > Ngày [[equity-investments/glossary/equity-m01-glossary#Settlement|settlement]] là 30/4/20X6, tức là đã trải qua 6 năm 4 tháng kể từ phát hành — bằng với kỳ coupon đang chạy từ 1/1/20X6 đến 30/6/20X6.
 > Theo quy ước 30/360, từ 1/1 đến 30/4 là 120 ngày trong tổng số 180 ngày của kỳ coupon (t/T = 120/180).
 >
-> Vì YTM = [[fixed-income/glossary/fi-m01#Coupon rate|coupon rate]] = 7%, flat price bằng par ($50,000), và full price = $50,000 × (1.035)^(120/180) ≈ $51,160 — phần tăng thêm chính là accrued interest.
+> Vì YTM = [[fixed-income/glossary/fi-m01#Coupon rate|coupon rate]] = 7%, flat price bằng par (\$50,000), và full price = \$50,000 × (1.035)^(120/180) ≈ \$51,160 — phần tăng thêm chính là accrued interest.
 
 ---
 
@@ -495,7 +495,7 @@ tags: [mock-test, mock-test-2, fixed-income, practice]
 
 ## Câu 171
 
-**Question 171: A bond currently trading at a yield-to-maturity of 7.8% is priced at 101.7 per $100 of face value. If the yield falls to 7.5% the bond will trade at 104.4 and if the yield increases to 8.1% the bond will trade at 99.1. The [[fixed-income/glossary/fi-m12#Approximate convexity|approximate convexity]] of this bond is:**
+**Question 171: A bond currently trading at a yield-to-maturity of 7.8% is priced at 101.7 per \$100 of face value. If the yield falls to 7.5% the bond will trade at 104.4 and if the yield increases to 8.1% the bond will trade at 99.1. The [[fixed-income/glossary/fi-m12#Approximate convexity|approximate convexity]] of this bond is:**
 
 (A) 98.25.
 
