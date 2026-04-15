@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "sophie.github.io/cfa-wiki",
+    baseUrl: "htheanh2000.github.io/cfa-wiki",
     ignorePatterns: ["private", "templates", ".obsidian", "raw", "slides/manifest.json"],
     defaultDateType: "modified",
     theme: {
